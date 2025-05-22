@@ -44,7 +44,7 @@ print(f"{one:.2f}")
 
 
 ### 2-Norm of a Matrix
-![Screenshot 2025-04-26 144817](https://github.com/user-attachments/assets/6c79be5a-310d-4303-82ff-10adf7159c55
+![Screenshot 2025-04-26 144817](https://github.com/user-attachments/assets/6c79be5a-310d-4303-82ff-10adf7159c55)
 ### Infinity Norm of a Matrix
 ![Screenshot 2025-04-26 144827](https://github.com/user-attachments/assets/43a3bf3f-4296-4321-ad06-c0ec436b19a8)
 
